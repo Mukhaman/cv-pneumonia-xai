@@ -244,7 +244,3 @@ Jawook Gu: jawook.gu@soombit.ai
 
 ---
 
-## Notebooks and report
-
-- `notebooks/` contains the Colab workflow (`0_env_setup.ipynb` to `5_xai_visualisation.ipynb`). Before running `0_env_setup.ipynb`, replace `Mukhaman/cv-pneumonia-xai` in the clone cell with this repository's URL.
-- `docs/ain431_report.pdf` is the project report.
